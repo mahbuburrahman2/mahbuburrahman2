@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:00ffd5&height=180&section=header&text=Mahbubur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2FC%2B%2B%20%7C%20Machine%20Learning%20%7C%20Competitive%20Programming&descAlignY=58&descSize=16&descColor=9ca3af" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:00ffd5&height=180&section=header&text=Mahbubur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Research-Oriented%20Developer&descAlignY=58&descSize=16&descColor=9ca3af" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFD5&center=true&vCenter=true&width=700&lines=CS+Student+%7C+Problem+Solver;Building+ML+Applications+in+Economics;Competitive+Programmer+in+C%2B%2B;Open+to+Research+%26+Collaboration" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFD5&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Machine+Learning+%26+Deep+Learning+Engineer+in+Progress;Research-Oriented+AI+Developer;Competitive+Programmer+%7C+C%2B%2B+Specialist" />
 
 <br/>
 
@@ -16,95 +16,116 @@
 
 ---
 
-## `$ cat about.py`
+## 👨‍💻 About Me
 
-```python
-class MahbuburRahman:
-    def __init__(self):
-        self.role        = "CS Student & Competitive Programmer"
-        self.languages   = ["C", "C++", "Python", "JavaScript"]
-        self.focus       = ["Machine Learning", "Deep Learning", "DSA"]
-        self.building    = "ML applications in Economics"
-        self.learning    = "Linear Algebra for ML — DeepLearning.AI"
-        self.personality = "Introvert. Deep work. Consistent."
+I am a **Computer Science student** focused on becoming a professional in **Artificial Intelligence, Machine Learning, and Deep Learning**.
 
-    def open_to(self):
-        return ["ML projects", "Django projects", "Open-source DSA / Data Science"]
-
-    def ask_me_about(self):
-        return ["C/C++", "Python", "ML/DL", "Data Structures", "Algorithms"]
-```
+I enjoy building intelligent systems powered by data, algorithms, and neural networks while strengthening my foundation in computer science fundamentals.
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Career Objective
 
-**Languages**
+My goal is to grow into a:
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- 🤖 Machine Learning Engineer  
+- 🧠 Deep Learning Developer  
+- 🔬 AI Research-Oriented Practitioner  
+- 📊 Data-Driven System Designer  
 
-**Web & Frameworks**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**Data Science & AI**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-**Problem Solving**
-
-![Algorithms](https://img.shields.io/badge/Algorithms-6F42C1?style=flat-square)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-008080?style=flat-square)
-![Graph Theory](https://img.shields.io/badge/Graph%20Theory-FF69B4?style=flat-square)
-![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-228B22?style=flat-square)
+I am focused on building **real-world AI systems and research-grade projects**.
 
 ---
 
-## 🔬 Projects
+## 🧠 Core Strengths
 
-### [📈 ML-Based Economic Prediction System](https://github.com/mahbuburrahman2/P-Machine-Learning)
-Comparative ML pipeline to analyze and forecast economic trends using real-world datasets.
-Models: Linear Regression · Decision Tree · **Random Forest** (best performer)
-Evaluation: MAE · MSE · R² Score · Deployed via Streamlit
-`Python` `Pandas` `scikit-learn` `Matplotlib` `Streamlit`
-> 📄 IEEE-style research paper included in `paper/`
-
-### [⚔️ Competitive Programming Solutions](https://github.com/mahbuburrahman2)
-Structured archive of solved problems from Codeforces and CodeChef.
-Covers: Graph Theory · Dynamic Programming · Trees · Binary Search · Greedy
-`C++`
-
-### [🗃️ Student Record System — NoSQL](https://github.com/mahbuburrahman2)
-Student management system with a NoSQL backend focused on data modeling and query performance.
-`MongoDB` `Neo4j`
+- Strong problem-solving mindset  
+- Deep focus on fundamentals (DSA + Math + AI theory)  
+- Consistent learning discipline  
+- Ability to build end-to-end ML systems  
+- Research-oriented thinking approach  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- C  
+- C++  
+- Python  
+- JavaScript  
+
+### 🤖 AI / ML / DL
+- NumPy, Pandas  
+- Scikit-learn  
+- TensorFlow / Keras  
+- PyTorch (learning)  
+- Matplotlib, Seaborn  
+
+### 🌐 Tools & Frameworks
+- Git & GitHub  
+- Streamlit  
+- Django (basic backend)  
+
+### 📊 Core Computer Science
+- Data Structures & Algorithms  
+- Graph Theory  
+- Dynamic Programming  
+- Linear Algebra for ML  
+- Probability & Statistics  
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Machine Learning Prediction System
+An end-to-end ML pipeline designed to train and evaluate models on real-world datasets.
+
+**Highlights:**
+- Data preprocessing & feature engineering  
+- Multiple ML model comparison  
+- Performance evaluation (MAE, MSE, R² Score)  
+- Data visualization & insights  
+- Streamlit-based deployment (optional)
+
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Streamlit  
+🔗 GitHub: https://github.com/mahbuburrahman2/P-Machine-Learning  
+
+---
+
+### ⚔️ Competitive Programming Archive
+A structured collection of algorithmic problem-solving solutions.
+
+**Topics Covered:**
+- Graph Algorithms  
+- Dynamic Programming  
+- Greedy Algorithms  
+- Trees & Recursion  
+- Binary Search Optimization  
+
+**Language:** C++
+
+---
+
+### 🗃️ Database Systems Project
+A NoSQL-based student management system designed for efficient data modeling and queries.
+
+**Tech:** MongoDB / Neo4j  
+Focus: Scalable database structure and query optimization  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahbuburrahman2&theme=tokyo-night&hide_border=true&area=true&color=00ffd5&line=7c3aed&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahbuburrahman2&theme=tokyo-night&hide_border=true" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahbuburrahman2&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahbuburrahman2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=7c3aed&text_color=9ca3af" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuburrahman2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&text_color=9ca3af" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuburrahman2&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=mahbuburrahman2&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffd5&fire=7c3aed&currStreakLabel=00ffd5" />
+<img src="https://streak-stats.demolab.com?user=mahbuburrahman2&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -112,34 +133,62 @@ Student management system with a NoSQL backend focused on data modeling and quer
 
 ## 🏆 Competitive Programming
 
-<div align="center">
+- Codeforces: mahbubur_rahman1  
+- CodeChef: mahbub1  
 
-| Platform | Handle | Focus |
-|----------|--------|-------|
-| ![Codeforces](https://img.shields.io/badge/Codeforces-1A75FF?style=flat-square&logo=codeforces&logoColor=white) | [`mahbubur_rahman1`](https://codeforces.com/profile/mahbubur_rahman1) | Graphs · DP · Greedy |
-| ![CodeChef](https://img.shields.io/badge/CodeChef-E55721?style=flat-square&logo=codechef&logoColor=white) | [`mahbub1`](https://www.codechef.com/users/mahbub1) | Problem Solving Speed |
-
-</div>
-
----
-
-## 🔭 Currently
-
-```
-  BUILDING  →  ML applications in Economics
-  GRINDING  →  Competitive programming in C & C++
-  STUDYING  →  Linear Algebra for ML — DeepLearning.AI
-  OPEN TO   →  ML research · Django projects · Open-source DSA
-```
+**Focus Areas:**
+- Algorithms  
+- Problem Solving  
+- Graph Theory  
+- Dynamic Programming  
+- Optimization Techniques  
 
 ---
 
+## 🔬 Research Interests
+
+- Deep Learning & Neural Networks  
+- Machine Learning Systems  
+- AI for real-world applications  
+- Predictive modeling & intelligent systems  
+
+📌 Future Goal: Contribute to **applied AI research and publish impactful ML studies**
+
+---
+
+## 📈 Current Learning Path
+
+- Deep Learning (CNN, RNN, LSTM)  
+- Machine Learning System Design  
+- Mathematics for AI  
+- Advanced Data Structures & Algorithms  
+
+---
+
+## 🌍 Professional Direction
+
+I aim to grow into roles such as:
+
+- AI/ML Engineer  
+- Deep Learning Engineer  
+- Research-Oriented AI Developer  
+- Data Science & ML Systems Engineer  
+
+---
+
+## 📬 Contact
+
+- GitHub: github.com/mahbuburrahman2  
+- Codeforces: mahbubur_rahman1  
+- CodeChef: mahbub1  
+- Email: available on request  
+
+---
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahbuburrahman2&color=00ffd5&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd5,100:0d1117&height=120&section=footer" />
 
-*If anything here helped you — a ⭐ on a repo means a lot.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd5,100:0d1117&height=100&section=footer"/>
+⭐ *Consistency + Deep Learning = Real AI Engineer*
 
 </div>
