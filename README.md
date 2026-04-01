@@ -6,11 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahbubur--rahman1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubur-rahman1/)
-[![Email](https://img.shields.io/badge/Email-mahbuburstechhaven%40yahoo.com-F59E0B?style=flat-square&logo=yahoo&logoColor=white)](mailto:mahbuburstechhaven@yahoo.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-mahbubur__rahman1-1A75FF?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mahbubur_rahman1)
-[![CodeChef](https://img.shields.io/badge/CodeChef-mahbub1-E55721?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/mahbub1)
-[![GitHub](https://img.shields.io/badge/GitHub-mahbuburrahman2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahbuburrahman2)
+[![GitHub](https://img.shields.io/badge/GitHub-mahbuburrahman2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahbuburrahman2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahbubur--rahman1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-mahbuburstechhaven%40yahoo.com-F59E0B?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:mahbuburstechhaven@yahoo.com)
 
 </div>
 
@@ -18,29 +16,29 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science student** focused on becoming a professional in **Artificial Intelligence, Machine Learning, and Deep Learning**.
+I am a **Computer Science student** specializing in **Artificial Intelligence, Machine Learning, and Deep Learning**.
 
-I enjoy building intelligent systems powered by data, algorithms, and neural networks while strengthening my foundation in computer science fundamentals.
+My passion lies in building **intelligent systems, neural networks, and data-driven applications** while strengthening core computer science fundamentals.
 
 ---
 
 ## 🎯 Career Objective
 
-My goal is to grow into a:
+My goal is to become a:
 
 - 🤖 Machine Learning Engineer  
-- 🧠 Deep Learning Developer  
-- 🔬 AI Research-Oriented Practitioner  
-- 📊 Data-Driven System Designer  
+- 🧠 Deep Learning Engineer  
+- 🔬 AI Research-Oriented Developer  
+- 📊 Data Science & Intelligent Systems Engineer  
 
-I am focused on building **real-world AI systems and research-grade projects**.
+I focus on building **real-world AI systems and research-driven machine learning projects**.
 
 ---
 
 ## 🧠 Core Strengths
 
 - Strong problem-solving mindset  
-- Deep focus on fundamentals (DSA + Math + AI theory)  
+- Deep focus on algorithms + mathematics  
 - Consistent learning discipline  
 - Ability to build end-to-end ML systems  
 - Research-oriented thinking approach  
@@ -67,7 +65,7 @@ I am focused on building **real-world AI systems and research-grade projects**.
 - Streamlit  
 - Django (basic backend)  
 
-### 📊 Core Computer Science
+### 📊 Core Foundations
 - Data Structures & Algorithms  
 - Graph Theory  
 - Dynamic Programming  
@@ -79,14 +77,14 @@ I am focused on building **real-world AI systems and research-grade projects**.
 ## 🚀 Featured Projects
 
 ### 📊 Machine Learning Prediction System
-An end-to-end ML pipeline designed to train and evaluate models on real-world datasets.
+An end-to-end ML pipeline for training and evaluating models on real-world datasets.
 
-**Highlights:**
+**Key Features:**
 - Data preprocessing & feature engineering  
 - Multiple ML model comparison  
 - Performance evaluation (MAE, MSE, R² Score)  
 - Data visualization & insights  
-- Streamlit-based deployment (optional)
+- Streamlit deployment  
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Streamlit  
 🔗 GitHub: https://github.com/mahbuburrahman2/P-Machine-Learning  
@@ -96,7 +94,7 @@ An end-to-end ML pipeline designed to train and evaluate models on real-world da
 ### ⚔️ Competitive Programming Archive
 A structured collection of algorithmic problem-solving solutions.
 
-**Topics Covered:**
+**Topics:**
 - Graph Algorithms  
 - Dynamic Programming  
 - Greedy Algorithms  
@@ -108,10 +106,10 @@ A structured collection of algorithmic problem-solving solutions.
 ---
 
 ### 🗃️ Database Systems Project
-A NoSQL-based student management system designed for efficient data modeling and queries.
+A NoSQL-based student management system.
 
 **Tech:** MongoDB / Neo4j  
-Focus: Scalable database structure and query optimization  
+Focus: Data modeling, queries, and scalable database design  
 
 ---
 
@@ -152,7 +150,7 @@ Focus: Scalable database structure and query optimization
 - AI for real-world applications  
 - Predictive modeling & intelligent systems  
 
-📌 Future Goal: Contribute to **applied AI research and publish impactful ML studies**
+📌 Goal: Contribute to **applied AI research and publish ML studies**
 
 ---
 
@@ -178,10 +176,25 @@ I aim to grow into roles such as:
 
 ## 📬 Contact
 
-- GitHub: github.com/mahbuburrahman2  
-- Codeforces: mahbubur_rahman1  
-- CodeChef: mahbub1  
-- Email: available on request  
+<p align="center">
+
+<a href="https://github.com/mahbuburrahman2">
+  <img src="https://img.shields.io/badge/GitHub-mahbuburrahman2-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/mahbubur_rahman1">
+  <img src="https://img.shields.io/badge/Codeforces-mahbubur__rahman1-1A75FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/mahbub1">
+  <img src="https://img.shields.io/badge/CodeChef-mahbub1-E55721?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="mailto:mahbuburstechhaven@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-F59E0B?style=for-the-badge&logo=yahoo&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
