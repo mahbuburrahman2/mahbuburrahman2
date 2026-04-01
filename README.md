@@ -1,129 +1,144 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:00ffd5&height=160&section=header&text=ML%20Economic%20Prediction%20System&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Comparative%20ML%20Study%20for%20Economic%20Forecasting&descAlignY=60&descSize=14&descColor=9ca3af" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:00ffd5&height=180&section=header&text=Mahbubur%20Rahman&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=C%2FC%2B%2B%20%7C%20Machine%20Learning%20%7C%20Competitive%20Programming&descAlignY=58&descSize=16&descColor=9ca3af" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FFD5&center=true&vCenter=true&width=700&lines=CS+Student+%7C+Problem+Solver;Building+ML+Applications+in+Economics;Competitive+Programmer+in+C%2B%2B;Open+to+Research+%26+Collaboration" />
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-
-![IEEE Paper](https://img.shields.io/badge/Research-IEEE%20Style%20Paper-00ffd5?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-4ade80?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-9ca3af?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahbubur--rahman1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubur-rahman1/)
+[![Email](https://img.shields.io/badge/Email-mahbuburstechhaven%40yahoo.com-F59E0B?style=flat-square&logo=yahoo&logoColor=white)](mailto:mahbuburstechhaven@yahoo.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-mahbubur__rahman1-1A75FF?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mahbubur_rahman1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-mahbub1-E55721?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/mahbub1)
+[![GitHub](https://img.shields.io/badge/GitHub-mahbuburrahman2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mahbuburrahman2)
 
 </div>
 
 ---
 
-## Overview
+## `$ cat about.py`
 
-A research-oriented machine learning system that analyzes and predicts economic trends using real-world datasets. The project includes a **comparative study of three ML models**, evaluated against standard regression metrics, and a live **Streamlit web app** for real-time prediction.
+```python
+class MahbuburRahman:
+    def __init__(self):
+        self.role        = "CS Student & Competitive Programmer"
+        self.languages   = ["C", "C++", "Python", "JavaScript"]
+        self.focus       = ["Machine Learning", "Deep Learning", "DSA"]
+        self.building    = "ML applications in Economics"
+        self.learning    = "Linear Algebra for ML — DeepLearning.AI"
+        self.personality = "Introvert. Deep work. Consistent."
 
-> 📄 An IEEE-style research paper is included in the `paper/` directory.
+    def open_to(self):
+        return ["ML projects", "Django projects", "Open-source DSA / Data Science"]
 
----
-
-## Key Results
-
-| Model | MAE | MSE | R² Score |
-|-------|-----|-----|----------|
-| Linear Regression | — | — | — |
-| Decision Tree | — | — | — |
-| **Random Forest** ✅ | **—** | **—** | **best** |
-
-> **Finding:** Random Forest outperformed the other models, handling nonlinear relationships in economic data most effectively.
-
-> ⚠️ Fill in your actual metric values above — even rough numbers (e.g. R²: 0.87) make this table 10× more impactful.
-
----
-
-## Models Implemented
-
-- **Linear Regression** — baseline predictor for linear economic trends
-- **Decision Tree** — captures nonlinear splits in feature space
-- **Random Forest** — ensemble method; best overall performance
-
----
-
-## System Architecture
-
-```
-Raw Data
-   │
-   ▼
-Data Preprocessing Pipeline
-   │  (cleaning · normalization · feature engineering)
-   ▼
-Model Training Module
-   │  (Linear Regression · Decision Tree · Random Forest)
-   ▼
-Evaluation Module
-   │  (MAE · MSE · R² Score)
-   ▼
-Streamlit Web App  ←→  Real-time Prediction
+    def ask_me_about(self):
+        return ["C/C++", "Python", "ML/DL", "Data Structures", "Algorithms"]
 ```
 
 ---
 
-## Project Structure
+## 🛠 Tech Stack
 
-```
-ML-Economic-Prediction-System/
-├── data/               # Raw and processed datasets
-├── notebooks/          # Exploratory data analysis
-├── src/                # Core ML pipeline
-├── app/
-│   └── streamlit_app.py
-├── models/             # Saved trained models
-├── paper/              # IEEE-style research paper
-└── website/            # Academic portfolio page
-```
+**Languages**
 
----
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Getting Started
+**Web & Frameworks**
 
-**Clone the repo**
-```bash
-git clone https://github.com/mahbuburrahman2/ML-Economic-Prediction-System.git
-cd ML-Economic-Prediction-System
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Install dependencies**
-```bash
-pip install -r requirements.txt
-```
+**Data Science & AI**
 
-**Run the Streamlit app**
-```bash
-streamlit run app/streamlit_app.py
-```
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+
+**Problem Solving**
+
+![Algorithms](https://img.shields.io/badge/Algorithms-6F42C1?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-008080?style=flat-square)
+![Graph Theory](https://img.shields.io/badge/Graph%20Theory-FF69B4?style=flat-square)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-228B22?style=flat-square)
 
 ---
 
-## Research Focus
+## 🔬 Projects
 
-- Comparative analysis of ML models for economic forecasting
-- Predictive modeling of real-world economic indicators
-- Performance evaluation using standard regression metrics
-- Data-driven decision support systems
+### [📈 ML-Based Economic Prediction System](https://github.com/mahbuburrahman2/P-Machine-Learning)
+Comparative ML pipeline to analyze and forecast economic trends using real-world datasets.
+Models: Linear Regression · Decision Tree · **Random Forest** (best performer)
+Evaluation: MAE · MSE · R² Score · Deployed via Streamlit
+`Python` `Pandas` `scikit-learn` `Matplotlib` `Streamlit`
+> 📄 IEEE-style research paper included in `paper/`
+
+### [⚔️ Competitive Programming Solutions](https://github.com/mahbuburrahman2)
+Structured archive of solved problems from Codeforces and CodeChef.
+Covers: Graph Theory · Dynamic Programming · Trees · Binary Search · Greedy
+`C++`
+
+### [🗃️ Student Record System — NoSQL](https://github.com/mahbuburrahman2)
+Student management system with a NoSQL backend focused on data modeling and query performance.
+`MongoDB` `Neo4j`
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahbubur--rahman1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbubur-rahman1/)
-[![Email](https://img.shields.io/badge/Email-mahbuburstechhaven%40yahoo.com-F59E0B?style=flat-square&logo=yahoo&logoColor=white)](mailto:mahbuburstechhaven@yahoo.com)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahbuburrahman2&theme=tokyo-night&hide_border=true&area=true&color=00ffd5&line=7c3aed&point=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahbuburrahman2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=7c3aed&text_color=9ca3af" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuburrahman2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&text_color=9ca3af" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mahbuburrahman2&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffd5&fire=7c3aed&currStreakLabel=00ffd5" />
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Handle | Focus |
+|----------|--------|-------|
+| ![Codeforces](https://img.shields.io/badge/Codeforces-1A75FF?style=flat-square&logo=codeforces&logoColor=white) | [`mahbubur_rahman1`](https://codeforces.com/profile/mahbubur_rahman1) | Graphs · DP · Greedy |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-E55721?style=flat-square&logo=codechef&logoColor=white) | [`mahbub1`](https://www.codechef.com/users/mahbub1) | Problem Solving Speed |
+
+</div>
+
+---
+
+## 🔭 Currently
+
+```
+  BUILDING  →  ML applications in Economics
+  GRINDING  →  Competitive programming in C & C++
+  STUDYING  →  Linear Algebra for ML — DeepLearning.AI
+  OPEN TO   →  ML research · Django projects · Open-source DSA
+```
 
 ---
 
 <div align="center">
 
-*If this project was useful to you, a ⭐ goes a long way.*
+![Profile Views](https://komarev.com/ghpvc/?username=mahbuburrahman2&color=00ffd5&style=flat-square&label=PROFILE+VIEWS)
+
+*If anything here helped you — a ⭐ on a repo means a lot.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffd5,100:0d1117&height=100&section=footer"/>
 
